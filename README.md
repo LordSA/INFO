@@ -1,63 +1,40 @@
 <p align="center">
-
 <b>Hello Guys
-
 </b>
-
 </p>
-
 <p align="center">
-
 <b>Welcome To World OF DARKNESS
-
 </b>
-
 </p>
-
-<p align="center">
-  
+<p align="center"> 
 <b> INTRODUCTION
-
 </b>
-
 </p>
 
- 📚 Student
+✯ 📚 Graduated Highschool
 
-* 👨‍💻 Noob Developer
+✯ 🧑🏻‍💻 Medium Developer
 
-* 🗨️ Telegram Expert
+✯ 🧑🏻‍💻 Expert at editing codes Learning more for Best
 
-* 🤖 TG Bot Expert
+✯ 🤖 Expert at making TG Botz
 
-* 😘 Telegram Is My Favourite
+✯ ⭐ Specialized Ethical Hacker
+
+✯ ✨ Spending Time in coding and using TG
 
 <h1 align="center">
-
-  <b>💬 Find Me On Telegram 💬</b>
-
+  <b>TELEGRAM INTRODUCTION</b>
 </h1>
-
-<p align="center">
-
-  <a href="https://t.me/Spidey_Ser_TG">
-
-    &nbsp;<img src="https://img.shields.io/badge/Spidey-Ser-red?style=flat-square&logo=telegram" width="250" height="50">&nbsp;
-
+<p align="side">
+  <a href="https://t.me/lord1of5darkness9">
+    &nbsp;<img src="https://img.shields.io/badge/LORD-_SA-darkgreen?style=flat-curvesquare&logo=telegram" width="100" height="20">&nbsp;
   </a>
-
 </p>
-
-<p align="center">
-
-<b>My bots channel and group
-
-<b>
-
+<p align="side">
+<b>Group and Channel
+</b>
 </p>
-
-<p align="center">
-
 <a href="https://t.me/StarkBotz">
 
     &nbsp;<img src="https://img.shields.io/badge/StarkBotz-Channel-red?style=flat-square&logo=telegram" width="300" height="50">&nbsp;
