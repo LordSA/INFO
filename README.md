@@ -23,6 +23,13 @@
 
 ✯ ✨ Spending Time in coding and using TG
 
+
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=LordSA&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=10&hide=jupyter%20notebook,tex,css,php">
+  <a href="https://github.com/LordSA">
+
+   </a>
+
 <p align="center">
 <img src="https://github-stats-alpha.vercel.app/api?username=LordSA&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 </p>
