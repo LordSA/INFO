@@ -11,6 +11,7 @@
 </b>
 </p>
 <img align='right' src="https://media.giphy.com/media/T4tPJEgs2FEFq/giphy.gif?cid=ecf05e47qhbjlap43ddrrabq9fr2p627llne685nvyrb7drn&rid=giphy.gif&ct=s" width="230">
+
 ✯ 📚 Graduated Highschool
 
 ✯ 🧑🏻‍💻 Medium Developer
