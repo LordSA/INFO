@@ -20,8 +20,6 @@
 
 ✯ 🤖 Expert at making TG Botz
 
-✯ ⭐ Specialized Ethical Hacker
-
 ✯ ✨ Spending Time in coding and using TG
 
 
