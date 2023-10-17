@@ -16,9 +16,9 @@
 
 ✯ 🧑🏻‍💻 Medium Developer
 
-✯ 🧑🏻‍💻 Expert at editing codes Learning more for Best
+✯ 🧑🏻‍💻 Learning programming detaily for experiance
 
-✯ 🤖 Expert at making TG Botz
+✯ 🤖 Expert at making TG Botz "Retired"
 
 ✯ ✨ Spending Time in coding and using TG
 
