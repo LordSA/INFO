@@ -23,17 +23,12 @@
 ✯ ✨ Spending Time in coding and Reading
 
 <b>Languages</b>
-✯ C++
-
-✯ HTML
-
-✯ JavaScript 
-
-✯ PhP
-
-✯ SQL
-
-✯ Python
+✯ C++\n
+✯ HTML\n
+✯ JavaScript\n 
+✯ PhP\n
+✯ SQL\n
+✯ Python\n
 
 
 
