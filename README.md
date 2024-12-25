@@ -23,7 +23,7 @@
 ✯ ✨ Spending Time in coding and Reading
 
 <b>Languages</b>\n
-✯ C++\n
+✯ C++'\n'
 ✯ HTML\n
 ✯ JavaScript\n 
 ✯ PhP\n
