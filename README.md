@@ -3,7 +3,7 @@
 </b>
 </p>
 <p align="center">
-<b>Welcome To World OF DARKNESS
+<b>Welcome To World OF CODING
 </b>
 </p>
 <p align="center"> 
@@ -12,7 +12,7 @@
 </p>
 <img align='right' src="https://media.giphy.com/media/T4tPJEgs2FEFq/giphy.gif?cid=ecf05e47qhbjlap43ddrrabq9fr2p627llne685nvyrb7drn&rid=giphy.gif&ct=s" width="230">
 
-✯ 📚 Graduated Highschool
+✯ 📚 BTECH CSE
 
 ✯ 🧑🏻‍💻 Medium Developer
 
@@ -20,7 +20,16 @@
 
 ✯ 🤖 Expert at making TG Botz "Retired"
 
-✯ ✨ Spending Time in coding and using TG
+✯ ✨ Spending Time in coding and Reading
+
+<b>Languages</b>
+✯ C++
+✯ HTML
+✯ JavaScript 
+✯ PhP
+✯ SQL
+✯ Python
+
 
 
 <p align="center">
