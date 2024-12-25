@@ -24,10 +24,15 @@
 
 <b>Languages</b>
 ✯ C++
+
 ✯ HTML
+
 ✯ JavaScript 
+
 ✯ PhP
+
 ✯ SQL
+
 ✯ Python
 
 
